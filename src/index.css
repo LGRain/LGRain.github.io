@@ -3,11 +3,6 @@
     src: url("/fonts/Minecraft.ttf") format("truetype");
 }
 
-@font-face {
-    font-family: "Minecraft-Cyrillic";
-    src: url("/fonts/Minecraft-Cyrillic.ttf") format("truetype");
-}
-
 body,
 html {
     margin: 0;
